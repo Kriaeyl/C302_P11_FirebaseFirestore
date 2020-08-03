@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "801628677119",
+    "firebase_url": "https://fir-student-app-4caa7.firebaseio.com",
+    "project_id": "fir-student-app-4caa7",
+    "storage_bucket": "fir-student-app-4caa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801628677119:android:78dd3fef1c50a360e8bdca",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.c302_p11_firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801628677119-k7jd2pig86la8unhagtupidauht0tnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq3oM5R_4Qefp1Ffb9AJiVItj_JgdtGxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801628677119-k7jd2pig86la8unhagtupidauht0tnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801628677119:android:7c902b4147562025e8bdca",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.firebasestudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801628677119-k7jd2pig86la8unhagtupidauht0tnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq3oM5R_4Qefp1Ffb9AJiVItj_JgdtGxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801628677119-k7jd2pig86la8unhagtupidauht0tnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
